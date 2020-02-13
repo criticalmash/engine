@@ -61,6 +61,6 @@
     }
   },
   "dependencies": {
-    "assign-deep": "^1.0.0"
+    "assign-deep": "^1.0.1"
   }
 }
